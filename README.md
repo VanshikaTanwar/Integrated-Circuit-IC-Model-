@@ -19,4 +19,5 @@ However, models are only as good as the measured data that was used to generate 
 
 Analog integrated circuit design are those which are used for designing operational amplifiers, linear regulators, oscillators, active filters, and phase locked loops. And for verifying the semiconductor parameters like power dissipation, gain, and resistance which is more concerned while designing the analog integrated circuit.
 Analog Integrated Ic's are used for performing different operations on analog signals. As, we all know that analog signals are present everywhere in nature. So, to perform different operations we use analog IC's.
+
 Different types of Analog Ic's are opamp 741 Ic,LM386,cd4017,etc.
