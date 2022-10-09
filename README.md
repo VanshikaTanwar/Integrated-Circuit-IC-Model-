@@ -21,3 +21,11 @@ Analog integrated circuit design are those which are used for designing operatio
 Analog Integrated Ic's are used for performing different operations on analog signals. As, we all know that analog signals are present everywhere in nature. So, to perform different operations we use analog IC's.
 
 Different types of Analog Ic's are opamp 741 Ic,LM386,cd4017,etc.
+
+## INA106 Differential Amplifier IC
+
+Differential Amplifier is a type of amplifier circuit which is used to amplify the difference of input and give the output respectively.
+
+### Pin Configuration
+
+It is an 8 pins IC \cite{6} with pin name REF, -IN, +IN , V- , Sense , Vout , V+ , NC.  It is an analog circuit which takes two input and give the difference of both inputs at the output.
