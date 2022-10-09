@@ -64,3 +64,28 @@ Ad=Vout/(Vin1-Vin2)
   <img src="https://user-images.githubusercontent.com/90523478/194777098-27316c0c-6512-4ed1-9853-354622c7da23.jpg"></br>
    fig.3: Schematic of differential amplifier 
 </p>
+
+
+
+## Simulations
+
+### Input Plot
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90523478/194777250-74fb1f81-0a43-4fe6-bf44-02a9ed3f9811.jpg"></br>
+   fig.4: Input sine wave Vin1
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90523478/194777302-b339fa4d-7bb0-45bd-a579-02990d590a8f.jpg"></br>
+   fig.5: Input sine wave Vin2
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90523478/194777335-991ee6cb-1fc8-4187-842b-5efb74a2cb8e.jpg"></br>
+   fig.6: Output Waveform
+
+</p>
