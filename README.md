@@ -56,7 +56,7 @@ Ad=Vout/(Vin1-Vin2)
    fig.2: Subcircuit Schematic Diagram of INA106 Differential Amplifier using OPAMP 
 </p>
 
-#### Schematic with external circui
+#### Schematic with external circuit
 
 
 </p>
