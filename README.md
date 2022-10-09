@@ -35,3 +35,32 @@ It is an 8 pins IC \cite{6} with pin name REF, -IN, +IN , V- , Sense , Vout , V+
   <img src="https://user-images.githubusercontent.com/90523478/194776865-56133d90-b082-449a-8c25-cc44b4dd8114.jpg"></br>
    fig.1: INA106 Pin Configuration 
 </p>
+
+The mathematical equation for calculating the output is given as
+Vout=Ad(Vin1-Vin2)
+Where,
+Vin1 = it is the voltage applied at the inverting terminal of op-amp
+Vin2= it is the voltage applied at the non-inverting terminal of op-amp
+Ad= Differential Gain
+Vout= It is the output of the op-amp.
+• To calculate the differential amplifier gain we can use :-
+Ad=Vout/(Vin1-Vin2)
+
+
+### Subcircuit Schematic Diagram
+
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90523478/194777014-3fed0704-346b-40a3-b787-04e01139257c.jpg"></br>
+   fig.2: Subcircuit Schematic Diagram of INA106 Differential Amplifier using OPAMP 
+</p>
+
+#### Schematic with external circui
+
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90523478/194777098-27316c0c-6512-4ed1-9853-354622c7da23.jpg"></br>
+   fig.3: Schematic of differential amplifier 
+</p>
