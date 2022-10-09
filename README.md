@@ -29,3 +29,9 @@ Differential Amplifier is a type of amplifier circuit which is used to amplify t
 ### Pin Configuration
 
 It is an 8 pins IC \cite{6} with pin name REF, -IN, +IN , V- , Sense , Vout , V+ , NC.  It is an analog circuit which takes two input and give the difference of both inputs at the output.
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90523478/194776865-56133d90-b082-449a-8c25-cc44b4dd8114.jpg"></br>
+   fig.1: INA106 Pin Configuration 
+</p>
